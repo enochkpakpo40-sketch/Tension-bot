@@ -1,0 +1,12 @@
+{
+  "name": "tension-bot",
+  "version": "1.0.0",
+  "description": "Tension Bot WhatsApp Assistant",
+  "main": "tension.js",
+  "scripts": {
+    "start": "node tension.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
